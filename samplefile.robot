@@ -3,5 +3,5 @@ Library    SeleniumLibrary
 
 *** Test Cases ***
 tc0001    
-    Open Browser
+    Open Browser    url    chrome
 
