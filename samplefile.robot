@@ -2,5 +2,6 @@
 Library    SeleniumLibrary
 
 *** Test Cases ***
-tc0001
+tc0001    
+    Open Browser
 
